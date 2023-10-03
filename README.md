@@ -1,5 +1,9 @@
 ### Hello World, I'm Vanessa 👋
+
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=veevargas&&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 <!--
 **VeeVargas/veevargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
